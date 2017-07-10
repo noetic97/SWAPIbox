@@ -22,5 +22,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://noetic97@github.io/SWAPI-box"
+  "homepage": "https://noetic97.github.io/SWAPIbox/"
 }
